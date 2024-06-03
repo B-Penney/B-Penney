@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Beth-Ann
-- 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Python, JavaScript and Java
+- 👀 I’m interested in anything technology
+- 🌱 I’m currently learning Python, JavaScript, Web Dev etc
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me www.linkedin.com/in/bethann-penney
 - 😄 Pronouns: She/Her
